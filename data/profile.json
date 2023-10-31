@@ -1,0 +1,59 @@
+{
+    "name": "Caroline Tavares",
+    "photo": "https://media.licdn.com/dms/image/D4D03AQHj3hvL_7Ax1w/profile-displayphoto-shrink_800_800/0/1683103500626?e=1704326400&v=beta&t=BV4sG7rEAWnvlbOoqgpU9jaM3q2kltkWb_YpPG7ZIHA",
+    "job": "DAD Tech",
+    "location": "Porto Alegre",
+    "phone": "(53) 981371619",
+    "email": "caroltvrs@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Python",
+          "logo": "https://github.com/CarolineT9/JS-developer/blob/main/Portfolio%20-%20Projeeto%20base/data/imgs/python.png"
+        },
+        {
+          "name": "Html",
+          "logo": "https://github.com/CarolineT9/JS-developer/blob/main/Portfolio%20-%20Projeeto%20base/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://github.com/CarolineT9/JS-developer/blob/main/Portfolio%20-%20Projeeto%20base/data/imgs/css.png"
+        },
+        {
+          "name": "JS",
+          "logo": "https://github.com/CarolineT9/JS-developer/blob/main/Portfolio%20-%20Projeeto%20base/data/imgs/js.png"
+        }
+       
+      ],
+      "softSkills": [
+        "Organização",
+        "Trabalho em equipe",
+        "Flexibilidade"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Frontend Mentor - 3-column preview card component",
+        "url": "https://github.com/CarolineT9/3-column-preview-card-component-main",
+        "github": true
+      },
+      {
+        "name": "Frontend Mentor - Product preview card component",
+        "url": "https://github.com/CarolineT9/Product-preview-card-component",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Web Developer  - Estágio",
+        "period": "2023 - até o momento",
+        "description": "Auxiliar o técnico no desenvolvimento das soluções em plataforma web. Auxiliar o técnico no serviço de suporte aos clientes, administração de Firewall e acesso remoto dos servidores."
+      }
+      
+      
+    ]
+  }
